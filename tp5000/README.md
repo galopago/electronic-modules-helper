@@ -34,12 +34,6 @@ The following tables show the values of the resistors that came soldered into th
 |-------|--------|------|-------|
 | CS    |  F     | NONE | OPEN  |
 
-### PRE-CHARGE CURRENT SETTING
-
-| TP ID | PCB ID | MARK | VALUE |
-|-------|--------|------|-------|
-| Rtrick| NONE   | 0    | 0     |
-
 ### CHARGE CURRENT
 
 | TP ID | PCB ID | MARK | VALUE  |
@@ -48,6 +42,12 @@ The following tables show the values of the resistors that came soldered into th
 | RS b  |  NONE  | NONE | OPEN   |
 
 There are 2 pads in parallel for fine-tuning resistor value
+
+### PRE-CHARGE CURRENT SETTING
+
+| TP ID | PCB ID | MARK | VALUE |
+|-------|--------|------|-------|
+| Rtrick| NONE   | 0    | 0     |
 
 Here are the configuration parameters obtained with the aforementioned resistor values:
 
