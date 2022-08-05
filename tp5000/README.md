@@ -16,13 +16,13 @@ The only visible marking on the PCB is D14482, there are no references to the ma
 
 The following image presents visually each resistor with both labels: IC manufacturer and module manufacturer.
 
-![MODULE](/assets/img/tp5000-resistors.svg)
+![MODULE](/tp5000/assets/img/tp5000-resistors.svg)
 
 ## Pinout
 
 The following image presents visually each header pin with a label exactly written as in the IC manufacturer datasheet.
 
-![MODULE](/assets/img/tp5000-pinout.svg)
+![MODULE](/tp5000/assets/img/tp5000-pinout.svg)
 
 ## Module resistor values
 
