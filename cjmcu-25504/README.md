@@ -2,7 +2,7 @@
 
 CJMCU-25504 module based on BQ25504 energy harvesting chip, have built-in all external components needed for immediate use. Parameter setup is done using resistors, however, resistors silkscreen characters are unreadable and output pin labels are not exactly written as in the IC datasheet.
 
-This document shows the equivalence between labels written in the module [schematic](/assets/pdf/cjmcu-25504-schematic.pdf) and in the IC [datasheet](/assets/pdf/bq25504.pdf).
+This document shows the equivalence between labels written in the module [schematic](assets/pdf/cjmcu-25504-schematic.pdf) and in the IC [datasheet](assets/pdf/bq25504.pdf).
 
 ## The module in question
 
