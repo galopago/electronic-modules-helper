@@ -14,13 +14,13 @@ The only visible marking on the PCB is CJMCU-25504, there are no references to t
 
 The following image presents visually each resistor with both labels: IC manufacturer and module manufacturer.
 
-![MODULE](/assets/img/cjmcu-25504-resistors.svg)
+![MODULE](/cjmcu-25504/assets/img/cjmcu-25504-resistors.svg)
 
 ## Pinout
 
 The following image presents visually each header pin with a label exactly written as in the IC manufacturer datasheet.
 
-![MODULE](/assets/img/cjmcu-25504-pinout.svg)
+![MODULE](/cjmcu-25504/assets/img/cjmcu-25504-pinout.svg)
 
 In this module the voltage divider made of ROC1 and ROC2 is not connected to VOC_SAMP pin. Instead the middle point of the divider and VOC_SAMP signals are routed to header pins. MPPT could be enabled or disabled externally.
 
