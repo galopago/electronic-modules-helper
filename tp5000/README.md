@@ -4,13 +4,13 @@ TP5000 module based on TP5000 2A 4.2V lithium/3.6V lithium iron battery charger,
 
 Read this in other languages: [Español](/assets/markdown/README.es.md)
 
-This document shows the equivalence between labels written in the module and in the IC [datasheet](/assets/pdf/tp5000.pdf).
+This document shows the equivalence between labels written in the module and in the IC [datasheet](/tp5000/assets/pdf/tp5000.pdf).
 
 ## The module in question
 
 The only visible marking on the PCB is D14482, there are no references to the manufacturer. Silkscreens are unreadable.
 
-![MODULE](/assets/img/tp5000-module.png)
+![MODULE](/tp5000/assets/img/tp5000-module.png)
 
 ## Resistor map
 
