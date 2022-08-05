@@ -2,8 +2,6 @@
 
 TP5000 module based on TP5000 2A 4.2V lithium/3.6V lithium iron battery charger, have built-in all external components needed for immediate use. Parameter setup is done using resistors, however, resistors silkscreen characters are unreadable and output pin labels are not exactly written as in the IC datasheet.
 
-Read this in other languages: [Español](/assets/markdown/README.es.md)
-
 This document shows the equivalence between labels written in the module and in the IC [datasheet](assets/pdf/tp5000.pdf).
 
 ## The module in question
