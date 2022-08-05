@@ -10,7 +10,7 @@ This document shows the equivalence between labels written in the module and in 
 
 The only visible marking on the PCB is D14482, there are no references to the manufacturer. Silkscreens are unreadable.
 
-![MODULE](assets/img/tp5000-module.png)
+![MODULE](/tp5000/assets/img/tp5000-module.jpg)
 
 ## Resistor map
 
