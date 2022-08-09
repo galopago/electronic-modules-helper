@@ -83,3 +83,58 @@ Here are the configuration parameters obtained with the aforementioned resistor 
 
 This configuration uses a solar cell as input and 2x 1.25V NiMH rechargeable batteries in series as a storage device
 
+## Example values for LiFePO4 3.2 V
+
+### MPPT
+
+| TI ID | PCB ID | MARK | VALUE  |
+|-------|--------|------|--------|
+| ROC2  |  R2    | 63E  | 4.42 M |
+| ROC1  |  R10   | 565  | 5.60 M |
+| ROC1a |  R1    | 106  | 10.0 M |
+
+### OVERVOLTAGE
+
+| TI ID | PCB ID | MARK | VALUE  |
+|-------|--------|------|--------|
+| ROV2  |  R4    | 475  | 4.70 M |
+| ROV1  |  R3    | 515  | 5.10 M |
+| ROV1a |  R14   | 244  |  240 K |
+
+### UNDERVOLTAGE
+
+| TI ID | PCB ID | MARK | VALUE  |
+|-------|--------|------|--------|
+| RUV2  |  R6    | 515  | 5.10 M |
+| RUV1  |  R5    | 515  | 5.10 M |
+| RUV1a |  R15   | NONE |    0 M |
+
+### VOLTAGE OK
+
+| TI ID | PCB ID | MARK | VALUE  |
+|-------|--------|------|--------|
+| ROK3  |  R7    | 01E  | 1.00 M |
+| ROK2  |  R9    | 475  | 4.70 M |
+| ROK1  |  R8    | 395  | 3.90 M |
+| ROK1a |  R16   | 30D  |  200 K |
+
+### OVERTEMPERATURE
+
+| TI ID       | PCB ID | MARK | VALUE |
+|-------------|--------|------|-------|
+| OT_PROG 60  |  R12   | 0    |   0 M |
+| OT_PROG 120 |  R11   | N/A  |   N/A |
+
+Here are the configuration parameters obtained with the aforementioned resistor values:
+
+
+| PARAMETER      | VALUE |
+|----------------|-------|
+| VBAT_OV        | 3.50 V|
+| VBAT_UV        | 2.50 V|
+| VBAT_OK        | 2.70 V|
+| VBAT_OK_HYST   | 3.00 V|
+| MPP            | 78 %  |
+| OVERTEMP       | 60 C  |
+
+This configuration uses a solar cell as input and 1x 3.2V LiFeP04 rechargeable batterie as a storage device
