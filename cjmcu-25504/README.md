@@ -137,4 +137,4 @@ Here are the configuration parameters obtained with the aforementioned resistor 
 | MPP            | 78 %  |
 | OVERTEMP       | 60 C  |
 
-This configuration uses a solar cell as input and 1x 3.2V LiFeP04 rechargeable batterie as a storage device
+This configuration uses a solar cell as input and 1x 3.2V LiFeP04 rechargeable battery as a storage device
